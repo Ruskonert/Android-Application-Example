@@ -1,3 +1,7 @@
+/**
+ * Copyright 2019, Coding Educational Club (Department of Security Engineering, SCH University) all rights reserved.
+ * This project was referenced by https://github.com/aiex1234/Calculator.
+ */
 package kr.cnehs.seoya.application
 
 import android.annotation.SuppressLint
