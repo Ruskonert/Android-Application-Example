@@ -12,13 +12,8 @@
         <activity android:name="kr.cnehs.seoya.application.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="kr.cnehs.seoya.application.FirstActivity" />
-        <activity android:name="kr.cnehs.seoya.application.SecondActivity" />
-        <activity android:name="kr.cnehs.seoya.application.ThreeActivity" />
     </application>
-
 </manifest>
